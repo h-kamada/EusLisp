@@ -187,6 +187,7 @@
  (make-cascoords :name "broom-spot" :pos (float-vector 2250.0 1000.0 0.0) :rot #2f((2.220446e-16 1.0 0.0) (-1.0 2.220446e-16 0.0) (0.0 0.0 1.0)))
  (make-cascoords :name "table-spot" :pos (float-vector 4100.0 1600.0 0.0) :rot #2f((2.220446e-16 -1.0 0.0) (1.0 2.220446e-16 0.0) (0.0 0.0 1.0)))
  (make-cascoords :name "cook-spot" :pos (float-vector 1100.0 1600.0 0.0) :rot #2f((-1.0 -1.224606e-16 0.0) (1.224606e-16 -1.0 0.0) (0.0 0.0 1.0)))
+ (make-cascoords :name "fridge-front-spot" :pos (float-vector 4800.0 1480.0 0.0) :rot #2f((1.0 0.0 0.0) (0.0 1.0 0.0) (0.0 0.0 1.0)))
  (make-cascoords :name "init-spot" :pos (float-vector 500.0 0.0 0.0) :rot #2f((1.0 0.0 0.0) (0.0 1.0 0.0) (0.0 0.0 1.0)))
        ))
      ))
